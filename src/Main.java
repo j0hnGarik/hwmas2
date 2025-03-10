@@ -31,7 +31,7 @@ public class Main {
         }
         double average = (double) total1 / expenses2.length;
         System.out.println("Средняя сумма трат за месяц составила " + average + " рублей.");
-        System.out.println("task 4");
+        System.out.println("taska 4");
         char[] reverseFullName = { 'I', 'v', 'a', 'n', 'o', 'v', ' ', 'I', 'v', 'a', 'n'};
         for (int i = reverseFullName.length - 1; i >= 0; i--) {
             System.out.print(reverseFullName[i]);
